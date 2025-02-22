@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CramerMethod", "CramerMethod\CramerMethod.csproj", "{4E2CF58A-CE6E-4605-BA05-44B27BEF837A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2CF58A-CE6E-4605-BA05-44B27BEF837A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2CF58A-CE6E-4605-BA05-44B27BEF837A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2CF58A-CE6E-4605-BA05-44B27BEF837A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2CF58A-CE6E-4605-BA05-44B27BEF837A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D447AB-844B-46AE-BD74-DD91F4449B55}
+	EndGlobalSection
+EndGlobal

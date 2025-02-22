@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CramerMethod\CramerMethod\bin\Debug\net8.0\CramerMethod.exe
+C:\Users\User\source\repos\CramerMethod\CramerMethod\bin\Debug\net8.0\CramerMethod.deps.json
+C:\Users\User\source\repos\CramerMethod\CramerMethod\bin\Debug\net8.0\CramerMethod.runtimeconfig.json
+C:\Users\User\source\repos\CramerMethod\CramerMethod\bin\Debug\net8.0\CramerMethod.dll
+C:\Users\User\source\repos\CramerMethod\CramerMethod\bin\Debug\net8.0\CramerMethod.pdb
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.AssemblyInfo.cs
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.dll
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\refint\CramerMethod.dll
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.pdb
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\CramerMethod.genruntimeconfig.cache
+C:\Users\User\source\repos\CramerMethod\CramerMethod\obj\Debug\net8.0\ref\CramerMethod.dll
